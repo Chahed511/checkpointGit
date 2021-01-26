@@ -1,0 +1,13 @@
+NEDRA@DESKTOP-UUG8IQ3 MINGW64 ~/learn_git_again (master)
+$ git log
+commit a8c9b3d738156693a9215d7d78aac4bee6f5a83e (HEAD -> master)
+Author: nedra <nedra.chahed@gmail.com>
+Date:   Tue Jan 12 14:23:23 2021 +0100
+
+    removing third.txt
+
+commit cf805d81d2ddfbd82940fb549ab00993bed12a74
+Author: nedra <nedra.chahed@gmail.com>
+Date:   Tue Jan 12 14:20:13 2021 +0100
+
+    adding third.txt
